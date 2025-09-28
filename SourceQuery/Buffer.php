@@ -50,8 +50,6 @@ class Buffer
 	 * Get remaining bytes
 	 *
 	 * @return int Remaining bytes in buffer
-	 *
-	 * @phpstan-impure
 	 */
 	public function Remaining( ) : int
 	{
